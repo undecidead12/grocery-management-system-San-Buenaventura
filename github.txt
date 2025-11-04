@@ -1,0 +1,16 @@
+grocery-management-system/
+├── database/
+│   ├── schema.sql
+│   ├── sample_data.sql
+│   └── complex_queries.sql
+├── includes/
+│   ├── config.example.php
+│   ├── database.php
+│   └── Product.php
+├── public/
+│   ├── index.php
+│   ├── products.php
+│   └── css/style.css
+├── .gitignore
+├── README.md
+└── composer.json
